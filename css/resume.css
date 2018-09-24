@@ -1,0 +1,19 @@
+body {
+    margin:0;
+    padding:0;
+    border:0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url("../Images/white-butterflies-free-ppt-backgrounds-for-your-powerpoint--31.jpeg")fixed;
+}
+
+img {
+    transform: rotate(-90deg);
+}
+
+.navbar-brand {
+    text-shadow: 1px 1px 1px black;
+}
+
+h4 {
+    text-shadow: 4px 4px 4px lightblue;
+}
